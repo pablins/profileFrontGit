@@ -1,0 +1,12 @@
+/* =======================================================
+*
+* 	Estilos personalizados
+*
+* ======================================================= */
+.efectoIcon {
+    transition: 0.3s;
+}
+  
+.efectoIcon:hover {
+    transform: scale(1.2);
+}
